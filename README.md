@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # React Calculator
+=======
+# Project Name
+React Calculator
+>>>>>>> c4c1d0e471dec85e86faa436e1c5b9308cd7c6d6
 
 ## Table of contents
 * [Screenshots](#screenshots)
