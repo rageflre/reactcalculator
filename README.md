@@ -18,14 +18,16 @@
 ## Setup
 To run this project, run it locally using npm:
 
-# Install dependencies
+```
+Install dependencies
 $ npm install
 
-# Build
+Build
 $ npm run build
 
-# Open localhost and run in browser
+Open localhost and run in browser
 $ npm start
+```
 
 ## Status
 Project is: _in progress_
