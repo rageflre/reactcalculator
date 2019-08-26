@@ -1,11 +1,11 @@
 # React Calculator
 
-## Table of contents
+## Table of Contents
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Contact](#contact)
+* [Credits](#credits)
 
 ## Screenshots
 
@@ -27,5 +27,5 @@ $ npm start
 ## Status
 Project is: _in progress_
 
-## Contact
+## Credits
 Created by [@rageflre](https://github.com/rageflre/) and [@xulder](https://github.com/xulder/)
