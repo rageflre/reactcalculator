@@ -16,13 +16,16 @@
 * React 16.9
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, run it locally using npm:
 
-```
-$ npx create-react-app my-app
-$ cd my-app
+# Install dependencies
+$ npm install
+
+# Build
+$ npm run build
+
+# Open localhost and run in browser
 $ npm start
-```
 
 ## Status
 Project is: _in progress_
