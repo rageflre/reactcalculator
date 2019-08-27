@@ -1,11 +1,21 @@
 import React from 'react'
 
-function Header() {
-  return (
-    <header className='navbar'>
+class Header extends React.Component {
+
+  constructor(){
+    super()
+    this.state = {
+
+    }
+  }
+
+  render() {
+    return (
+      <header className='navbar'>
       Header
-    </header>
-  );
+      </header>
+    );
+  }
 }
 
 export default Header

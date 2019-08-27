@@ -1,17 +1,27 @@
-import React from 'react';  
+import React from 'react';
 import Footer from './Footer'
 import MainContent from './MainContent'
 import Header from './Header'
 import './style.css'
 
-function Calculator() {
-  return (
-    <div>
+class Calculator extends React.Component {
+
+  constructor() {
+    super()
+    this.state = {
+
+    }
+  }
+
+  render() {
+    return (
+      <div>
       <Header />
       <MainContent />
       <Footer />
-    </div>
-  );
+      </div>
+    )
+  }
 }
 
 export default Calculator;
