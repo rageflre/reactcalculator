@@ -1,5 +1,4 @@
-import React from 'react';
-import ReactDOM from 'react-dom'
+import React from 'react';  
 import Footer from './Footer'
 import MainContent from './MainContent'
 import Header from './Header'
