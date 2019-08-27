@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import style from '../containers/Calculator.css';
+import Footer from './Footer'
+import MainContent from './MainContent'
+import Header from './Header'
+import './style.css'
 
 function Calculator() {
   return (
-    <div className="Calculator">
-      <div id="main">
-        <h1>Calculator</h1>
-      </div>
+    <div>
+      <Header />
+      <MainContent />
+      <Footer />
     </div>
   );
 }
