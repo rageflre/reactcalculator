@@ -37,6 +37,12 @@ body {
   text-align: center;
 }
 
+.button-pad {
+  margin: 0 auto;
+  padding-top: 70px;
+  width: 6%;
+}
+
 button {
     border: 1px solid lightgray;
     background-color: whitesmoke;

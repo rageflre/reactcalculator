@@ -14,7 +14,7 @@ class MainContent extends React.Component {
       <div>
       <h1 className='main'>Calculator</h1>
       </div>
-    );
+    )
   }
 }
 
