@@ -1,9 +1,21 @@
 import React from 'react'
 
-function MainContent() {
-  return (
-    <h1 className='main'>Calculator</h1>
-  );
+class MainContent extends React.Component {
+
+  constructor() {
+    super()
+    this.state = {
+
+    }
+  }
+
+  render() {
+    return (
+      <div>
+      <h1 className='main'>Calculator</h1>
+      </div>
+    );
+  }
 }
 
 export default MainContent
