@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Calculator from './containers/Calculator';
+import App from './containers/App';
 import * as serviceWorker from './utils/serviceWorker';
 
 ReactDOM.render(
-  <Calculator  />,
+  <App  />,
   document.getElementById("root")
 )
 
