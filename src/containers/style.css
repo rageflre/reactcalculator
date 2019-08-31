@@ -42,8 +42,8 @@ body {
 }
 
 .button-row {
-  padding-left: 700px;
-  text-align: left;
+  position: absolute;
+  text-align: center;
   position: relative;
 }
 
