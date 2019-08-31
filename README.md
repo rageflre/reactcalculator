@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![First release](./images/firstrelease.png)
+![image](https://prnt.sc/p0309f)
 
 ## Technologies
 * HTML5
