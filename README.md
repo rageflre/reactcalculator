@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![ScreenShot](https://imgur.com/DDACKBW)
+![image](/src/images/firstrelease.png)
 
 ## Technologies
 * HTML5
