@@ -27,7 +27,7 @@ class Calculator extends React.Component {
         if(this.resultShown) {
           this.setState({output: '', input: i});
         } else {
-          this.setState({input: this.state.input += i});
+          this.setState({input: this.state.input + i});
         }
         this.resultShown = false;
         break;
