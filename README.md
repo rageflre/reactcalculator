@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![image](./src/images/firstrelease.png)
+![image](/src/images/firstrelease.png)
 
 ## Technologies
 * HTML5
