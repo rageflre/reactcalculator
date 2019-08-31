@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![image](https://prnt.sc/p0309f)
+![image](https://imgur.com/DDACKBW)
 
 ## Technologies
 * HTML5
