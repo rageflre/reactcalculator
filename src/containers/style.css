@@ -38,27 +38,38 @@ body {
 }
 
 .calc {
+  background-color: #4CAF50;
+  font-size: 28px;
+  color: #FFFFFF;
+  padding: 20px;
+  width: 400px;
+  height: 400px;
   text-align: center;
+  overflow: hidden;
+  margin: auto;
+}
+
+.buttons {
+  display: block;
+}
+
+.buttons button {
+  width: 20%;
+  height: 60px;
+  font-size: 18px;
 }
 
 .button-row {
-  position: absolute;
-  text-align: center;
-  position: relative;
+
 }
 
-button {
-    text-align: center;
-    border: 1px solid lightgray;
-    background-color: whitesmoke;
-    padding: 15px;
-    border-radius: 6px;
-}
-
-button:hover {
-    cursor: pointer;
-}
-
-button:focus {
-    outline:0;
+.input-output {
+  display: flex;
+  height: 100px;
+  background-color: black;
+  justify-content: center;
+  padding: 0.5em;
+  font-weight: bold;
+  font-size: 1.4em;
+  align-items: center;
 }
