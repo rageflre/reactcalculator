@@ -1,4 +1,6 @@
+/* eslint no-eval: 0 */
 import React from 'react'
+import * as math from 'mathjs'
 
 class Calculator extends React.Component {
 
@@ -49,6 +51,7 @@ class Calculator extends React.Component {
     return (
       <div className="calc">
         <div className="input-output">{input + "   " + output}</div>
+        <div className="buttons">
         <div className="button-row">
           {this.renderButton(7)}
           {this.renderButton(8)}
@@ -74,6 +77,9 @@ class Calculator extends React.Component {
           {this.renderButton('.')}
           {this.renderButton(0)}
           {this.renderButton('%')}
+          {this.renderButton('(')}
+          {this.renderButton(')')}
+        </div>
         </div>
       </div>
     )

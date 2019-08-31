@@ -9,6 +9,8 @@
 
 ## Screenshots
 
+![First release](./images/firstrelease.png)
+
 ## Technologies
 * HTML5
 * CSS3
